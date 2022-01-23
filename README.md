@@ -29,7 +29,7 @@ o	This was calculated and printed using the if statement in the code pictured be
 
 The full Election results are as follows: 
 
-![Pic3] (https://github.com/msha789/Election_Analysis/blob/04b8671e67e0c9da2af8c9104201f2e96a327aa6/Screen%20Shot%202022-01-23%20at%203.11.14%20PM.png)
+![Pic3](https://github.com/msha789/Election_Analysis/blob/04b8671e67e0c9da2af8c9104201f2e96a327aa6/Screen%20Shot%202022-01-23%20at%203.11.14%20PM.png)
 
 ## Election-Audit Summary 
 
